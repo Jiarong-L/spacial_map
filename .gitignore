@@ -1,7 +1,8 @@
-*.txt
-*.png
-*.jpg
-*.tif
 .ipynb_checkpoints/*
 __pycache__/*
+chk/*
+out/*
+raw/*
 res/*
+
+
